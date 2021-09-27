@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <salt-grain>
- <name>Ansys Install Test</name>
+ <name>Ansys_Install_Test</name>
  <token/>
  <hidden>false</hidden>
- <version>1.0</version>
+ <api-version>0.25</api-version>
  <api-version/>
- <title>Python Macro</title>
+ <title>Test</title>
  <doc>Ansys KLayout package installation test</doc>
  <doc-url>https://github.com/Michaelyxgao/Ansys_KLayout_Test</doc-url>
- <url/>
+ <url/>https://github.com/Michaelyxgao/Ansys_KLayout_Test.git/tags/release2</url>
  <license>MIT</license>
  <author>Ansys (Michael Gao)</author>
  <author-contact>gaoy116@mcmaster.ca</author-contact>
